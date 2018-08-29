@@ -96,7 +96,8 @@ td.taboff:hover {
     color:#e7e2d8 !important;
   }
   td.taboff a:hover,
-  td.taboff a:active {
+  td.taboff a:active,
+  td.taboff:hover a  {
     color:#ffffff !important;
   }
 
